@@ -1,6 +1,6 @@
 {
-  "name": "sar_006_currency_converter",
-  "version": "1.0.0",
+  "name": "sar_currency_converter",
+  "version": "1.0.1",
   "description": "simple currency converter ",
   "main": "index.js",
   "type": "module",
